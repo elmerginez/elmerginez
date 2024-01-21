@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Currently, I am studying at an institute. <br>💻 My goal is to collaborate with other developers in the future. <br>🌐 I am specializing in web development and am excited to learn and develop my skills in this field! <br>❓If you have any questions, please don't hesitate to ask me!
+🎓 Currently, I am studying. <br>💻 My goal is to collaborate with other developers in the future. <br>🌐 I am specializing in web development and am excited to learn and develop my skills in this field! <br>❓If you have any questions, please don't hesitate to ask me!
 
 
 ## 🌐 Socials:
