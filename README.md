@@ -1,36 +1,83 @@
-# 💫 About Me:
-🎓 Currently, I am studying. <br>💻 My goal is to collaborate with other developers in the future. <br><!--🌐 I am specializing in web development and am excited to learn and develop my skills in this field! <br>-->❓If you have any questions, please don't hesitate to ask me!
+<div align="center">
 
+  <!-- TÍTULO DINÁMICO ENFOCADO EN DESARROLLO INTEGRAL -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+Elmer+Ginez+%F0%9F%91%8B;Full+Stack+Developer;Desarrollo+Web+End-to-End;Frontend+%E2%80%A2+Backend+%E2%80%A2+Seguridad+%E2%80%A2+SEO" alt="Banner Animado" />
+  </a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/elmerginez55) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elmerginez55) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@elmerginez55) 
+  <p align="center">
+    <strong>Construyo productos digitales completos: desde la idea visual y la lógica del servidor, hasta la seguridad, optimización y posicionamiento.</strong>
+  </p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=elmerginez&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=elmerginez&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elmerginez&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <!-- CANALES DE CONTACTO Y REDES -->
+  <a href="https://linkedin.com/in/elmerginez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/elmerginezm" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="https://tiktok.com/@elmerginezm" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/elmerginezm" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+</div>
+
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=elmerginez&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 Lo que aporto a un proyecto
 
-<!--
-**elmerginez/elmerginez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 **Desarrollo Integral (End-to-End):** Diseño y construyo aplicaciones web completas sin depender de intermediarios en cada fase del proyecto.
+- 🎨 **Frontend & Experiencia de Usuario:** Interfaces modernas, fluidas y responsivas utilizando **React**, **Next.js** y **Tailwind CSS**.
+- ⚙️ **Backend & APIs:** Servicios de alta velocidad, lógica de negocio y arquitecturas escalables con **Python (FastAPI)** y **Node.js**.
+- 🔒 **Seguridad & Rendimiento:** Implementación de buenas prácticas de autenticación, protección de endpoints y tiempos de carga mínimos.
+- 📈 **SEO & Optimización:** Estructuración técnica y renderizado eficiente para que las aplicaciones indexen correctamente en los motores de búsqueda.
+- 🗄️ **Persistencia de Datos:** Modelado eficiente y gestión de bases de datos relacionales con **PostgreSQL** y **MySQL**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack de Tecnologías
+
+<!-- ICONOS REDONDEADOS SUAVES (SkillIcons) -->
+<div align="center">
+
+  <p><strong>Frontend, UI & SEO</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css&theme=dark" alt="Frontend" />
+  </a>
+
+  <br><br>
+
+  <p><strong>Backend & Servicios</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs&theme=dark" alt="Backend" />
+  </a>
+
+  <br><br>
+
+  <p><strong>Bases de Datos & Almacenamiento</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Bases de datos" />
+  </a>
+
+  <br><br>
+
+  <p><strong>Entorno de Desarrollo & Control de Versiones</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="Herramientas" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+  <p>💬 <em>¿Tienes una propuesta o proyecto en mente? Escríbeme por cualquiera de mis canales arriba.</em></p>
+</div>
